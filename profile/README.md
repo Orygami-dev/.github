@@ -32,14 +32,16 @@ No generic templates: every site is crafted around the business, values and goal
 ## 🧰 What we fold with
 
 <p>
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Doctrine-FC6A31?style=flat-square&logo=doctrine&logoColor=white" alt="Doctrine">
+  <img src="https://img.shields.io/badge/Twig-BACF29?style=flat-square&logo=symfony&logoColor=black" alt="Twig">
+  <img src="https://img.shields.io/badge/EasyAdmin-4F46E5?style=flat-square&logo=symfony&logoColor=white" alt="EasyAdmin">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-Static, fast and lightweight websites: very little JavaScript, plenty of performance.
+Our sites run on **Orygami**, a lightweight CMS built with Symfony: server-rendered Twig pages for the visitors, a simple admin panel so you stay in control of your content.
 
 ## 📂 Projects
 
